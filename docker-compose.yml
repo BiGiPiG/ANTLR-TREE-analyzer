@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  antlr-analyzer:
+    build: .
+    volumes:
+      - ./examples:/app/examples
+
+    # Если нужно запустить конкретный файл вместо всех тестов,
+    # можно переопределить команду:
+    # command: python analyzer.py examples/valid/valid_sequential.txt
