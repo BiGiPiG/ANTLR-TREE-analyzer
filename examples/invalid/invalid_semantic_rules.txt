@@ -1,4 +1,0 @@
-123=x
-a=++10
-b=unknown
-c=d=e
