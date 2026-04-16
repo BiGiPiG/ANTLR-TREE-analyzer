@@ -21,8 +21,8 @@
 ### 2. Клонирование репозитория
 Откройте терминал и выполните:
 ```bash
-git clone <URL_РЕПОЗИТОРИЯ>
-cd <ИМЯ_ПАПКИ_ПРОЕКТА
+git clone https://github.com/BiGiPiG/ANTLR-TREE-analyzer.git
+cd ./ANTLR-TREE-analyzer
 ```
 
 ### 3. Настройка виртуального окружения
